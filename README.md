@@ -68,3 +68,8 @@ Sigue los pasos a continuación para clonar y ejecutar el proyecto localmente.
 git clone git@github.com:UrbanoTrejoOrlando/CRUD_PYHTON.git
 cd CRUD_PYTHON
 ```
+#### 2. Instalación de dependencias
+```bash
+sh server_python/Config/config.sh
+```
+
