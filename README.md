@@ -7,3 +7,8 @@
 - **READ**: Obtiene la lista completa de los usuarios o uno en especifico.
 - **UPDATE**: Permite modificar los detalles de un usuario existente. 
 - **DELETE**: Elimina un usuario por su clave. 
+
+## Tecnologías utilizadas
+- Python 
+- FastApi  
+- Mariadb o MySQL  
