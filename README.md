@@ -88,8 +88,8 @@ http://localhost:5690/docs
 
 | Método | Ruta         | Descripción                    |
 |--------|--------------|--------------------------------|
-| GET    | `/persona`   | Obtener todas las personas     |
-| POST   | `/persona`   | Crear una persona              |
-| GET    | `/task/:id`  | Obtener una tarea por el ID   |
+| GET    | `/persona`   | Obtener todas las personas                           |
+| POST   | `/persona`   | Crear una persona                                    |
+| PUT    | `/persona_udpate/:nombre`  | Actualizar una persona por el nombre   |
 | PUT    | `/task/:id`  | Actualizar una tarea existente |
 | DELETE | `/task/:id`  | Eliminar una tarea             |
