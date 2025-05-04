@@ -76,3 +76,7 @@ sh server_python/Config/config.sh
 ```bash
 source environment/bin/activate
 ```
+###4. Ejecuta el servidor
+```bash
+python main.py
+```
