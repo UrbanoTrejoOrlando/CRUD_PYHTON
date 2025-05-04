@@ -21,5 +21,10 @@ Antes de ejecutar la API, asegúrate de tener una base de datos disponible. Pued
 ```bash
 sudo pacman -S mariadb
 ```
-### 1. Instalar MariaDB (en Archcraft o Arch Linux)
+### 2. Habilitar y arrancar el servicio
+```bash
+sudo systemctl status mariadb
+sudo systemctl start mariadb
+sudo systemctl enable mariadb
+```
 
