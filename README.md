@@ -36,3 +36,10 @@ sudo mysql_secure_installation
 mysql -u root -p
 ```
 Dentro del cliente de MariaDB:
+```bash
+CREATE DATABASE crud_python;
+CREATE USER 'python'@'%' IDENTIFIED BY 'database';
+GRANT ALL PRIVILEGES ON crud_python.* TO 'python'@'%';
+FLUSH PRIVILEGES;
+```
+
