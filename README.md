@@ -31,3 +31,8 @@ sudo systemctl enable mariadb
 ```bash
 sudo mysql_secure_installation
 ```
+### 4. Crear la base de datos y el usuario
+```bash
+mysql -u root -p
+```
+Dentro del cliente de MariaDB:
