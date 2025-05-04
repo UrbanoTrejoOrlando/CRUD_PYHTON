@@ -80,3 +80,7 @@ source environment/bin/activate
 ```bash
 python main.py
 ```
+### 5. Accede al servidor
+```bash
+http://localhost:5690/docs
+```
