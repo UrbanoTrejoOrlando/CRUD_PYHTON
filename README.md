@@ -12,3 +12,14 @@
 - Python 
 - FastApi  
 - Mariadb o MySQL  
+
+## Requisitos previos
+Antes de ejecutar la API, asegúrate de tener una base de datos disponible. Puedes usar **MariaDB** o **MySQL**. A continuación, se detallan los pasos para instalar y configurar MariaDB:
+
+### 1. Instalar MariaDB (en Archcraft o Arch Linux)
+
+```bash
+sudo pacman -S mariadb
+```
+### 1. Instalar MariaDB (en Archcraft o Arch Linux)
+
