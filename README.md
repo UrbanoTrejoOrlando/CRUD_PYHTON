@@ -42,4 +42,10 @@ CREATE USER 'python'@'%' IDENTIFIED BY 'database';
 GRANT ALL PRIVILEGES ON crud_python.* TO 'python'@'%';
 FLUSH PRIVILEGES;
 ```
+Ingresa a la base de datos con el usuario y contraseña que se creo
+```bash
+mysql -u python -p
+show databases
+use crud_python
+```
 
