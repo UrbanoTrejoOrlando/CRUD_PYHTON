@@ -27,4 +27,7 @@ sudo systemctl status mariadb
 sudo systemctl start mariadb
 sudo systemctl enable mariadb
 ```
-
+### 3. Configurar MariaDB (opcional pero recomendado)
+```bash
+sudo mysql_secure_installation
+```
