@@ -63,5 +63,5 @@ CREATE TABLE persona (
 ```
 ### 5. Instalación y ejecución
 Sigue los pasos a continuación para clonar y ejecutar el proyecto localmente.
-
+#### 1. Clona el repositorio
 
