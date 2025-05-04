@@ -84,3 +84,12 @@ python main.py
 ```bash
 http://localhost:5690/docs
 ```
+## Rutas de la API
+
+| Método | Ruta         | Descripción                    |
+|--------|--------------|--------------------------------|
+| GET    | `/persona`   | Obtener todas las personas       |
+| GET    | `/task`      | Obtener todas las tareas       |
+| GET    | `/task/:id`  | Obtener una tarea por el ID   |
+| PUT    | `/task/:id`  | Actualizar una tarea existente |
+| DELETE | `/task/:id`  | Eliminar una tarea             |
