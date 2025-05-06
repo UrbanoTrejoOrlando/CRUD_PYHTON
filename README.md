@@ -186,7 +186,7 @@ Successful Response
 ```
 ### 🔸 Eliminar una tarea (DELETE `/persona_delete/:nombre`)
 - **URL:** `http://localhost:5690/persona_delete/?nombre=Orlando`
-**Método:** DELETE
+- **Método:** DELETE
 - **Respuesta esperada: 200 OK**
 ```bash
 Successful Response
