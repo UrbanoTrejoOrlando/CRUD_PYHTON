@@ -126,3 +126,5 @@ http://localhost:5690/docs
       "__rel__": {}
   }
 ```
+### 🔸 Obtener todas las personas (GET `/persona`)
+
