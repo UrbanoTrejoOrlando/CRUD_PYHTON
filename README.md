@@ -166,7 +166,7 @@ http://localhost:5690/docs
   "__rel__": {}
 }
 ```
-### 🔸 Actualizar los datos de una persona por el nombre (PUT **Método:** PUT`/persona/:nombre`)
+### 🔸 Actualizar los datos de una persona por el nombre (PUT **Método:** PUT`/persona_update/:nombre`)
 - **URL:** `http://localhost:5690/persona_update?nombre=Orlando`
 - **Método:** PUT
 - **Body (JSON):**
@@ -184,3 +184,5 @@ http://localhost:5690/docs
 ```json
 Successful Response
 ```
+### 🔸 Eliminar una tarea (DELETE `/persona_delete/:nombre`)
+
