@@ -96,7 +96,7 @@ http://localhost:5690/docs
 
 ## Ejemplos de uso en el servidor de FastApi
 ### 🔸 Crear una nueva persona (POST `/persona`)
-- **URL:** `http://localhost:5690/docs/persona_ejemplo/crear_persona_persona_post`
+- **URL:** `http://localhost:5690/persona`
 - **Método:** POST
 - **Body (JSON):**
 ```json
