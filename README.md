@@ -170,7 +170,7 @@ http://localhost:5690/docs
 - **URL:** `http://localhost:5690/persona_update?nombre=Orlando`
 - **Método:** PUT
 - **Body (JSON):**
-
+```json
 {
   "nombre": "Orlando",
   "apellido_p": "Urbano",
@@ -179,3 +179,4 @@ http://localhost:5690/docs
   "contrasenia": "piso",
   "edad": 24
 }
+```
