@@ -147,3 +147,4 @@ http://localhost:5690/docs
   }
 ]
 ```
+### 🔸 Obtener una tarea por el ID (GET `/task/:id`)
