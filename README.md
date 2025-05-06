@@ -88,8 +88,11 @@ http://localhost:5690/docs
 
 | Método |         Ruta               | Descripción                      |
 |--------|----------------------------|----------------------------------|
-| GET    | `/persona`                 | Obtener todas las personas       |
 | POST   | `/persona`                 | Crear una persona                |
+| GET    | `/persona`                 | Obtener todas las personas       |
 | PUT    | `/persona_udpate/:nombre`  | Actualizar una persona existente |
 | DELETE | `/persona_delete/:nombre`  | Eliminar a una persona           |
 | GET    | `/persona/:nombre`         | Obtener a una persona            |
+
+## Ejemplos de uso en el servidor de FastApi
+### 🔸 Crear una nueva persona (POST `/persona`)
