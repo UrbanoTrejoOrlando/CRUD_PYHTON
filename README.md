@@ -181,4 +181,4 @@ http://localhost:5690/docs
 }
 ```
 - **Respuesta esperada: 200 OK**
-
+Successful Response
