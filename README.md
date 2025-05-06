@@ -149,4 +149,5 @@ http://localhost:5690/docs
 ```
 ### 🔸 Obtener un usuario por el nombre (GET `/persona/:nombre`)
 - **URL:** `http://localhost:5690/persona/Orlando`
+- - **Método:** GET
 
