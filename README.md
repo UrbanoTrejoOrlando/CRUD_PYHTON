@@ -127,4 +127,5 @@ http://localhost:5690/docs
   }
 ```
 ### 🔸 Obtener todas las personas (GET `/persona`)
-
+- **URL:** `http://localhost:5690/persona`
+- **Método:** GET
