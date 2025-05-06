@@ -110,3 +110,19 @@ http://localhost:5690/docs
   "edad": 20
 }
 ```
+- **Respuesta esperada: 200 OK**
+```json
+  {
+      "__data__": {
+         "clv_persona": "123456",
+         "nombre": "Orlando",
+         "apellido_p": "Urbano",
+         "apellido_m": "Trejo",
+         "usuario_nombre": "Starlord",
+         "contrasenia": "Fedora2025",
+         "edad": 20
+      },
+      "_dirty": [],
+      "__rel__": {}
+  }
+```
