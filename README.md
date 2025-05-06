@@ -180,3 +180,5 @@ http://localhost:5690/docs
   "edad": 24
 }
 ```
+- **Respuesta esperada: 200 OK**
+
