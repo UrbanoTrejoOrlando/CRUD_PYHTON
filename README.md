@@ -169,6 +169,8 @@ http://localhost:5690/docs
 ### 🔸 Actualizar los datos de una persona por el nombre (PUT **Método:** PUT`/persona/:nombre`)
 - **URL:** `http://localhost:5690/persona_update?nombre=Orlando`
 - **Método:** PUT
+- **Body (JSON):**
+
 {
   "nombre": "Orlando",
   "apellido_p": "Urbano",
