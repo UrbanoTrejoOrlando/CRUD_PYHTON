@@ -147,7 +147,7 @@ http://localhost:5690/docs
   }
 ]
 ```
-### 🔸 Obtener un usuario por el nombre (GET `/persona/:nombre`)
+### 🔸 Obtener los datos de una persona por el nombre (GET `/persona/:nombre`)
 - **URL:** `http://localhost:5690/persona/Orlando`
 - **Método:** GET
 - **Respuesta esperada: 200 OK**
@@ -166,5 +166,5 @@ http://localhost:5690/docs
   "__rel__": {}
 }
 ```
-### 🔸 Actualizar una tarea (PUT `/task/:id`)
+### 🔸 Actualizar los datos de una persona por el nombre (PUT `/persona/:nombre`)
 
