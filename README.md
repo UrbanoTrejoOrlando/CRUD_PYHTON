@@ -166,6 +166,14 @@ http://localhost:5690/docs
   "__rel__": {}
 }
 ```
-### 🔸 Actualizar los datos de una persona por el nombre (PUT `/persona/:nombre`)
-- **URL:** `http://localhost:3001/task/680194e267845e2e373e3215`
-
+### 🔸 Actualizar los datos de una persona por el nombre (PUT **Método:** PUT`/persona/:nombre`)
+- **URL:** `http://localhost:5690/persona_update?nombre=Orlando`
+- **Método:** PUT
+{
+  "nombre": "Orlando",
+  "apellido_p": "Urbano",
+  "apellido_m": "Trejo",
+  "usuario_nombre": "caplando",
+  "contrasenia": "piso",
+  "edad": 24
+}
