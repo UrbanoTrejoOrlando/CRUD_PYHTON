@@ -99,3 +99,14 @@ http://localhost:5690/docs
 - **URL:** `http://localhost:5690/docs/persona_ejemplo/crear_persona_persona_post`
 - **Método:** POST
 - **Body (JSON):**
+```json
+{
+  "clv_persona": "123456",
+  "nombre": "Orlando",
+  "apellido_p": "Urbano",
+  "apellido_m": "Trejo",
+  "usuario_nombre": "Starlord",
+  "contrasenia": "Fedora2025",
+  "edad": 20
+}
+```
