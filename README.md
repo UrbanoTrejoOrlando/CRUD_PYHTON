@@ -166,5 +166,5 @@ http://localhost:5690/docs
   "__rel__": {}
 }
 ```
-  
+### 🔸 Actualizar una tarea (PUT `/task/:id`)
 
