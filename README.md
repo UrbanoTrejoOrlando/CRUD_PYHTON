@@ -167,4 +167,5 @@ http://localhost:5690/docs
 }
 ```
 ### 🔸 Actualizar los datos de una persona por el nombre (PUT `/persona/:nombre`)
+- **URL:** `http://localhost:3001/task/680194e267845e2e373e3215`
 
