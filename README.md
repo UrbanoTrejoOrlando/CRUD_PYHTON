@@ -185,4 +185,6 @@ http://localhost:5690/docs
 Successful Response
 ```
 ### 🔸 Eliminar una tarea (DELETE `/persona_delete/:nombre`)
+- **URL:** `http://localhost:5690/persona_delete/?nombre=Orlando`
+- 
 
