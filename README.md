@@ -8,7 +8,7 @@
 - **UPDATE**: Permite modificar los detalles de un usuario existente. 
 - **DELETE**: Elimina un usuario por su clave. 
 
-## Tecnologías utilizadas
+## Tecnologías 
 - Python 
 - FastApi  
 - Mariadb o MySQL  
