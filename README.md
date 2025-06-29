@@ -1,7 +1,7 @@
 # CRUD_PYTHON
 ## Descripción 
 **CRUD-PYTHON** es un Crud realizado en python utilizando el framewrok de FastApi  que permite la gestión de usuarios, implementando operaciones CRUD (Crear, Leer, Actualizar y Eliminar).
-## Funciones 
+## Funcionalidades 
 
 - **CREATE**: Permite crear un nuevo usuario. 
 - **READ**: Obtiene la lista completa de los usuarios o uno en especifico.
